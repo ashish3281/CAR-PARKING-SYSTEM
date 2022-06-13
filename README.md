@@ -31,3 +31,7 @@ This Mini project Car Parking Reservation system is developed using C++ Programm
 ![Screenshot (275)](https://user-images.githubusercontent.com/92047366/173408040-e3f60017-4f41-4d7e-aed5-c5eca3031184.png)
 
 ![Screenshot (276)](https://user-images.githubusercontent.com/92047366/173408067-6b21a9b8-94c0-47c9-a8c2-c5e9b41f3cc7.png)
+
+![Screenshot (277)](https://user-images.githubusercontent.com/92047366/173408237-c706aa45-7a01-44a8-9da7-78284183dfce.png)
+
+![Screenshot (278)](https://user-images.githubusercontent.com/92047366/173408262-d29b7375-1876-4c5b-bb63-b5b662954d67.png)
