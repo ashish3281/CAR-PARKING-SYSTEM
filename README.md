@@ -23,4 +23,6 @@ press 8 for exit the program
  
 This Mini project Car Parking Reservation system is developed using C++ Programming Language and different variables, strings have been used for the development of it.  This project provides simplest and the best system of vehicle parking record system.
 <br>
-In order to run the project, you must have installed Dev C++ or Code Blocks on your PC. (we recommend these IDE).
+<p>In order to run the project, you must have installed Dev C++ or Code Blocks on your PC. (we recommend these IDE).</p>
+<br>
+<h2>OUTPUT</h2>
