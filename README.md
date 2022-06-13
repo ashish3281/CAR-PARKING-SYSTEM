@@ -26,3 +26,8 @@ This Mini project Car Parking Reservation system is developed using C++ Programm
 <p>In order to run the project, you must have installed Dev C++ or Code Blocks on your PC. (we recommend these IDE).</p>
 <br>
 <h2>OUTPUT</h2>
+
+
+![Screenshot (275)](https://user-images.githubusercontent.com/92047366/173408040-e3f60017-4f41-4d7e-aed5-c5eca3031184.png)
+
+![Screenshot (276)](https://user-images.githubusercontent.com/92047366/173408067-6b21a9b8-94c0-47c9-a8c2-c5e9b41f3cc7.png)
